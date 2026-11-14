@@ -1,11 +1,11 @@
 # Buổi 01 – Đệ quy
 
-Họ tên: Phạm Đức Huy · MSV: 10125164
+Họ tên: Phạm Đức Huy · MSV: 10125164 · Lớp: 10125O.1
 
 ## Bài đã làm
-Chương 1: Tổng quan về CTDL & GT - Bài 1, 2, 3, 4, 5
-Chương 2: Phân tích giải thuật - Bài 1, 2, 3, 4, 5, 6
-Chương 3: Đệ quy - Bài 1, 2, 3, 4, 5, 6, 7, 8
+- Chương 1: Tổng quan về CTDL & GT - Bài 1, 2, 3, 4, 5
+- Chương 2: Phân tích giải thuật - Bài 1, 2, 3, 4, 5, 6
+- Chương 3: Đệ quy - Bài 1, 2, 3, 4, 5, 6, 7, 8
 
 ## Cách chạy
 ```
