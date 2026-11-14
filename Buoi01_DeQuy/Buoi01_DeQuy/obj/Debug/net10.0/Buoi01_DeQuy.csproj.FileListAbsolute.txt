@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.exe
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.deps.json
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.runtimeconfig.json
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.dll
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\bin\Debug\net10.0\Buoi01_DeQuy.pdb
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.dll
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\refint\Buoi01_DeQuy.dll
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.pdb
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_DeQuy.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\ref\Buoi01_DeQuy.dll
+C:\Users\Admin\Desktop\Buoi01_DeQuy\Buoi01_DeQuy\obj\Debug\net10.0\Buoi01_D.A6E1A982.Up2Date
