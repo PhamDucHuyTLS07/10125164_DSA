@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.exe
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.deps.json
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.runtimeconfig.json
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.dll
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.pdb
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.dll
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\refint\Buoi02_DanhSach.dll
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.pdb
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\ref\Buoi02_DanhSach.dll
+C:\Users\Admin\Desktop\Code CTDL & GT\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_D.02FE48F5.Up2Date
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.exe
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.deps.json
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.runtimeconfig.json
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.dll
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\bin\Debug\net10.0\Buoi02_DanhSach.pdb
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.dll
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\refint\Buoi02_DanhSach.dll
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.pdb
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_DanhSach.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\ref\Buoi02_DanhSach.dll
+C:\Users\Admin\Desktop\Buoi02_DanhSach\Buoi02_DanhSach\obj\Debug\net10.0\Buoi02_D.02FE48F5.Up2Date
